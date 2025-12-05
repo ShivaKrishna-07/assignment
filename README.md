@@ -23,11 +23,6 @@ Visit: `http://localhost:3000/dashboard/today`
 - Today's tasks dashboard with mark complete
 - Real-time updates via Supabase subscriptions
 
-## Documentation
-
-- [ASSIGNMENT_DOCS.md](./ASSIGNMENT_DOCS.md) - Complete setup & API documentation
-- [TESTING.md](./TESTING.md) - Testing checklist & verification steps
-- [STRIPE_INTEGRATION.md](./STRIPE_INTEGRATION.md) - Stripe payment integration guide (Section 5)
 
 ## Project Structure
 
